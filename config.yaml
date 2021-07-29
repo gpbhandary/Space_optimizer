@@ -1,0 +1,12 @@
+- Directory1:
+    Path: /var/log/mysql_processlist
+    pattern: null
+    zipping_frequency: Hourly
+- Directory2:
+    Path: /var/log/audit.d
+    pattern: null
+    zipping_frequency: Daily
+- Directory3:
+    Path: /var/log/sa
+    pattern: null
+    zipping_frequency: Daily

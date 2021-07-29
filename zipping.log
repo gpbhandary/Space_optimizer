@@ -1,0 +1,6 @@
+2021-04-21 22:04:24,315 | INFO | Directory: /var/log/mysql_processlist , zipping frequency: Hourly
+2021-04-21 22:04:24,315 | ERROR | PLEASE CHECK THE DIRECTORY PATH: /var/log/mysql_processlist
+2021-04-21 22:04:24,315 | INFO | Directory: /var/log/audit.d , zipping frequency: Daily
+2021-04-21 22:04:24,315 | ERROR | PLEASE CHECK THE DIRECTORY PATH: /var/log/audit.d
+2021-04-21 22:04:24,315 | INFO | Directory: /var/log/sa , zipping frequency: Daily
+2021-04-21 22:04:24,315 | ERROR | PLEASE CHECK THE DIRECTORY PATH: /var/log/sa
